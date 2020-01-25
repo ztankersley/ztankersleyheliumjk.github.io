@@ -21,23 +21,23 @@ google_ad_client: ca-pub-9204963049240271
 post_limit: 5
 
 
-title : Helium Jekyll
-tagline: Bootstrap 4 UI kit for jekyll
+title : Zach Tankerslehy
+tagline: Pragmatic Product Management
 author : 
-  name : Antonio Trento
-  site: https://lantoniotrento.github.io
-  description : I&#39;m a web master interested in communication applied to web marketing.
+  name : Zach Tankersley
+  site: https://zachtankersley.com
+  description : I am a product manager, tinker, and writer
   image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
+  email : zach.tankersley92@gmail.com
+  github : 
+  twitter : 
+  facebook: 
+  linkedin: 
+  instagram: ztankersley
+  pinterest: 
   feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
@@ -46,7 +46,7 @@ twitter_username: lantoniotrento
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://heliumjk.github.io
+production_url : http://zachtankersley.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -103,7 +103,7 @@ JB :
   comments :
     provider : disqus
     disqus : 
-      short_name : jeky-new-age
+      short_name : 
     #livefyre :
     #  site_id : 
     #intensedebate :
@@ -121,13 +121,13 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-94080000-1'
+        tracking_id : 'UA-156902732-1'
     getclicky :
       site_id :
     mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+        token : ''
     piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+        baseURL : '' # Piwik installation address (without protocol)
         idsite : '1'                   # the id of the site on Piwik
 
   # Settings for sharing helper.
